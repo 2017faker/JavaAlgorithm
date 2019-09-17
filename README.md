@@ -1,2 +1,2 @@
 # JavaAlgorithm
-JAVA算法的入门学习
+JAVA算法实现以及initcode和leetcode
